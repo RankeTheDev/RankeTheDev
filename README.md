@@ -6,6 +6,7 @@ Soy un estudiante de Animación y Desarrollo de Videojuegos al que le encantan l
 ## ⚙️ Tecnologías y herramientas
 ![Unity](https://img.shields.io/badge/Unity-6B6B6B?style=for-the-badge&logo=unity&logoColor=white&labelColor=black)
 ![Blender](https://img.shields.io/badge/Blender-6B6B6B?style=for-the-badge&logo=blender&logoColor=orange&labelColor=blue)
+![Python](https://img.shields.io/badge/Python-6B6B6B?style=for-the-badge&logo=python&logoColor=blue&labelColor=FFCC03)
 
 ## 📚 Actualmente estoy aprendiendo
 - Animación 3D y modelado 3D con Blender.
