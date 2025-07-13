@@ -27,7 +27,6 @@ Soy un estudiante de Animación y Desarrollo de Videojuegos al que le encantan l
 ## 📎 Redes Sociales
 [![YouTube](https://img.shields.io/badge/YouTube-RankeTheDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@RankeTheDev)
 [![Twitter](https://img.shields.io/badge/Twitter-RankeTheDev-1DA1F2?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/RankeTheDev)
-[![Instagram](https://img.shields.io/badge/Instagram-RankeTheDev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/rankethedev/)
 
 ---
 ¡Gracias por visitar mi perfil! 🚀
