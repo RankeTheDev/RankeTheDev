@@ -4,7 +4,7 @@
 Soy un estudiante de Animación y Desarrollo de Videojuegos al que le encantan los videojuegos y su creación, concretamente la programación. Actualmente estoy aprendiendo a programar en Unity con C#, y siempre busco nuevos retos y aprender cosas nuevas para estar al tanto de la actualidad sobre el mundo de la programación, el software y la creación de videojuegos.
 
 ## ⚙️ Tecnologías y herramientas
-![Unity](https://img.shields.io/badge/Unity-6B6B6B?style=for-the-badge&logo=unity&logoColor=white&labelColor=black)
+![Unity](https://img.shields.io/badge/Unity_2D-6B6B6B?style=for-the-badge&logo=unity&logoColor=white&labelColor=black)
 ![Blender](https://img.shields.io/badge/Blender-6B6B6B?style=for-the-badge&logo=blender&logoColor=orange&labelColor=blue)
 ![Python](https://img.shields.io/badge/Python-6B6B6B?style=for-the-badge&logo=python&logoColor=blue&labelColor=FFCC03)
 
