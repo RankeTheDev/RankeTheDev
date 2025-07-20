@@ -2,7 +2,7 @@
 
 ## 💻 Sobre mí
 - Soy Christian Aller Colado, un estudiante de Animación y Desarrollo de Videojuegos al que le encantan los videojuegos y su creación, concretamente la programación. 
-- Actualmente estoy aprendiendo a programar en Unity con C# (y algo de Visual Scripting), y siempre busco nuevos retos y aprender cosas nuevas para estar al tanto de la actualidad sobre el mundo de la programación, el software y la creación de videojuegos.
+- Actualmente estoy aprendiendo a programar en Unity con C#, y siempre busco nuevos retos y aprender cosas nuevas para estar al tanto de la actualidad sobre el mundo de la programación, el software y la creación de videojuegos.
 
 ## ⚙️ Tecnologías y herramientas
 ![Unity](https://img.shields.io/badge/Unity_2D-6B6B6B?style=for-the-badge&logo=unity&logoColor=white&labelColor=black)
