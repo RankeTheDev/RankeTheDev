@@ -25,13 +25,15 @@ Soy un estudiante de Animación y Desarrollo de Videojuegos al que le encantan l
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RankeTheDev&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 📧 Contacto
-[![Email](https://img.shields.io/badge/rankethedev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rankethedev@gmail.com)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-RankeTheDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](link perfil LinkedIn)-->
+[![Gmail](https://img.shields.io/badge/Gmail-rankethedev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:rankethedev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RankeTheDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/christian-aller-colado-974335374/)
 <!--[![Web](https://img.shields.io/badge/Web-RankeTheDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](Link Web)-->
 
 ## 📎 Redes Sociales
-[![YouTube](https://img.shields.io/badge/YouTube-RankeTheDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@RankeTheDev)
-[![Twitter](https://img.shields.io/badge/Twitter-RankeTheDev-1DA1F2?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://x.com/RankeTheDev)
+[![YouTube](https://img.shields.io/badge/YouTube-RankeTheDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a1a)](https://www.youtube.com/@RankeTheDev)
+[![Twitter](https://img.shields.io/badge/Twitter-RankeTheDev-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a)](https://x.com/RankeTheDev)
+[![ArtStation](https://img.shields.io/badge/ArtStation-RankeTheDev-01A9FC?style=for-the-badge&logo=artstation&logoColor=white&labelColor=1a1a1a)](https://www.artstation.com/rankethedev)
+
 
 ---
-¡Gracias por visitar mi perfil! 🚀
+¡Gracias por visitar mi perfil! 👋
