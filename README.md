@@ -9,8 +9,13 @@ Soy un estudiante de Animación y Desarrollo de Videojuegos al que le encantan l
 ![Python](https://img.shields.io/badge/Python-6B6B6B?style=for-the-badge&logo=python&logoColor=blue&labelColor=FFCC03)
 
 ## 📚 Actualmente estoy aprendiendo
-- Animación 3D y modelado 3D con Blender.
-- Creación y Programación de videojuegos con C# en Unity.
+- FP de Grado Superior de Animación 2D/3D, Desarrollo de videojuegos y Entornos Interactivos:
+  - Animación 3D y modelado 3D con Blender.
+  - Creación y Programación de videojuegos con C# en Unity.
+
+- Autodidacta (tutoriales de YouTtube, cursos online):
+  - Programación con Python (básico - intermedio).
+  - Programación web con HTML5 (básico).
 
 ## 🏆 Proyectos destacados
 - Juego del ahorcado programado en python con la GUI de Tkinter (WIP).
