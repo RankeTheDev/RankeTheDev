@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy RankeTheDev</h1>
 
 ## 💻 Sobre mí
-- Soy un estudiante de Animación y Desarrollo de Videojuegos al que le encantan los videojuegos y su creación, concretamente la programación. 
+- Soy Christian Aller Colado, un estudiante de Animación y Desarrollo de Videojuegos al que le encantan los videojuegos y su creación, concretamente la programación. 
 - Actualmente estoy aprendiendo a programar en Unity con C# (y algo de Visual Scripting), y siempre busco nuevos retos y aprender cosas nuevas para estar al tanto de la actualidad sobre el mundo de la programación, el software y la creación de videojuegos.
 
 ## ⚙️ Tecnologías y herramientas
