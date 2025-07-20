@@ -34,6 +34,5 @@ Soy un estudiante de Animación y Desarrollo de Videojuegos al que le encantan l
 [![Twitter](https://img.shields.io/badge/Twitter-RankeTheDev-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a)](https://x.com/RankeTheDev)
 [![ArtStation](https://img.shields.io/badge/ArtStation-RankeTheDev-01A9FC?style=for-the-badge&logo=artstation&logoColor=white&labelColor=1a1a1a)](https://www.artstation.com/rankethedev)
 
-
 ---
-¡Gracias por visitar mi perfil! 👋
+<h4 align="center"> ¡Gracias por visitar mi perfil! 👋 </h4>
