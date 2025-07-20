@@ -27,7 +27,7 @@
 
 ## 📧 Contacto
 [![Gmail](https://img.shields.io/badge/Gmail-rankethedev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:rankethedev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RankeTheDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/christian-aller-colado-974335374/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Aller_Colado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/christian-aller-colado-974335374/)
 <!--[![Web](https://img.shields.io/badge/Web-RankeTheDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](Link Web)-->
 
 ## 📎 Redes Sociales
