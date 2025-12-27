@@ -22,9 +22,6 @@
 - Juego del ahorcado programado en python con la GUI de Tkinter (WIP).
 - Juego en un mundo de fantasía con combate por turnos (WIP).
 
-## 📈 Estadísticas de GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RankeTheDev&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
 ## 📧 Contacto
 [![Gmail](https://img.shields.io/badge/Gmail-rankethedev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:rankethedev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Aller_Colado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/christian-aller-colado-974335374/)
