@@ -8,6 +8,8 @@
 ![Unity](https://img.shields.io/badge/Unity_2D-6B6B6B?style=for-the-badge&logo=unity&logoColor=white&labelColor=black)
 ![Unity](https://img.shields.io/badge/Unity_3D-6B6B6B?style=for-the-badge&logo=unity&logoColor=white&labelColor=black)
 ![Blender](https://img.shields.io/badge/Blender-6B6B6B?style=for-the-badge&logo=blender&logoColor=orange&labelColor=blue)
+
+![C#](https://img.shields.io/badge/C_SHARP-6B6B6B?style=for-the-badge&logo=c&logoColor=white&labelColor=purple)
 ![Python](https://img.shields.io/badge/Python-6B6B6B?style=for-the-badge&logo=python&logoColor=blue&labelColor=FFCC03)
 
 ## 📚 Actualmente estoy aprendiendo
@@ -17,6 +19,8 @@
 
 - Autodidacta (tutoriales de YouTtube, cursos online):
   - Programación en C# y desarrollo de videojuegos en Unity.
+  - Uso de Blender, manejo de GeoNodes.
+  - Programación en HTML y Python.
 
 ## 🏆 Proyectos destacados
 - Juego del ahorcado programado en python con la GUI de Tkinter.
