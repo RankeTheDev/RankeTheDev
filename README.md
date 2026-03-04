@@ -27,15 +27,19 @@
 - Juego Quiz de Eurovision para dispositivos móviles android.
 - Juego en un mundo de fantasía con combate por turnos (WIP).
 
+## 📧 Contacto y RRSS
+# [![Web](https://img.shields.io/badge/Web-RankeTheDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rankethedev-linktree.carrd.co/)
+
+<!--
 ## 📧 Contacto
 [![Gmail](https://img.shields.io/badge/Gmail-rankethedev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:rankethedev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Aller_Colado-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/christian-aller-colado-974335374/)
-[![Web](https://img.shields.io/badge/Web-RankeTheDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rankethedev-esp.carrd.co/)
+[![Web](https://img.shields.io/badge/Web-RankeTheDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rankethedev-linktree.carrd.co/)
 
 ## 📎 Redes Sociales
-<!--[![YouTube](https://img.shields.io/badge/YouTube-RankeTheDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a1a)](https://www.youtube.com/@RankeTheDev)-->
+[![YouTube](https://img.shields.io/badge/YouTube-RankeTheDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a1a)](https://www.youtube.com/@RankeTheDev)
 [![Twitter](https://img.shields.io/badge/Twitter-RankeTheDev-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a)](https://x.com/RankeTheDev)
 [![Sketchfab](https://img.shields.io/badge/Sketchfab-RankeTheDev-01A9FC?style=for-the-badge&logo=sketchfab&logoColor=white&labelColor=1a1a1a)](https://sketchfab.com/RankeTheDev)
-
+-->
 ---
 <h4 align="center"> ¡Gracias por visitar mi perfil! 👋 </h4>
